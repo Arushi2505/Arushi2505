@@ -1,14 +1,6 @@
-# Hi, I'm Arushi 👋
-
-### AI/ML Engineer • Data Science • AI Engineering
-
-I build intelligent systems that turn data into practical, real-world products.
-
-🎓 B.Tech in Artificial Intelligence
-🤖 Exploring LLMs, RAG & AI Agents
-💻 Building AI-powered applications
-🌱 Learning, experimenting & shipping
-
+<p align="center">
+  <img src="./github-banner.png" alt="Arushi Biswas - AI/ML Engineer" width="100%">
+</p>
 ---
 
 ## 🧠 About Me
