@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./github-banner.png" alt="Arushi Biswas - AI/ML Engineer" width="100%">
 </p>
----
+
 
 ## 🧠 About Me
 
@@ -25,29 +25,10 @@ I'm particularly interested in:
 
 **AI-powered Personal Finance Intelligence Platform**
 
-Analyze financial transactions, automatically categorize spending, detect anomalies and generate explainable financial insights.
+A full-stack AI application that analyzes transaction data, categorizes spending, detects unusual transactions, and generates explainable financial insights.
 
-**Tech:** `Python` `FastAPI` `React` `Machine Learning`
-
----
-
-### 📄 [AI Resume Analyzer](https://github.com/Arushi2505/AI-Resume-Analyzer)
-
-**AI-powered Resume & Job Matching System**
-
-Analyzes resumes against job descriptions using NLP and semantic similarity to identify matching skills and skill gaps.
-
-**Tech:** `Python` `FastAPI` `React` `NLP` `Semantic Similarity`
-
----
-
-### 🚦 [Urban Mobility Management](https://github.com/Arushi2505/Urban-Mobility-Management)
-
-**AI-based Traffic & Route Optimization**
-
-Combines traffic-density detection, regression models and A* pathfinding to support intelligent urban mobility.
-
-**Tech:** `Python` `YOLO` `Machine Learning` `A*`
+**Built with:**  
+`Python` `FastAPI` `React` `Machine Learning` `Pandas`
 
 ---
 
@@ -55,10 +36,42 @@ Combines traffic-density detection, regression models and A* pathfinding to supp
 
 **Intelligent Crop Recommendation & Greenhouse Management**
 
-Machine-learning based system designed to support smarter agricultural decisions.
+A machine-learning based system designed to support smarter crop and greenhouse management decisions.
 
-**Tech:** `Python` `Machine Learning` `Data Science`
+**Built with:**  
+`Python` `Machine Learning` `Data Science`
 
+
+### 🚦 [Urban Mobility Management](https://github.com/Arushi2505/Urban-Mobility-Management)
+
+**AI-based Traffic & Route Optimization**
+
+Combines traffic-density detection, regression models, and A* pathfinding to explore intelligent urban mobility solutions.
+
+**Built with:**  
+`Python` `YOLO` `Machine Learning` `A*`
+
+---
+
+### 📄 [AI Resume Analyzer](https://github.com/Arushi2505/AI-Resume-Analyzer)
+
+**AI-powered Resume & Job Matching System**
+
+Analyzes resumes against job descriptions using NLP and semantic similarity to identify matching skills, missing skills, and overall compatibility.
+
+**Built with:**  
+`Python` `FastAPI` `React` `NLP` `Semantic Similarity`
+
+---
+
+### 🔎 [Driver Behaviour Profiles](https://github.com/Arushi2505/Driver-Behaviour-Profiles-for-Road-Safety-Analysis)
+
+**Driver Behaviour Analysis for Road Safety**
+
+Uses sensor data and machine learning to identify and analyze driving behaviour patterns.
+
+**Built with:**  
+`Python` `SVM` `Neural Networks` `Data Analysis`
 ---
 
 ## 🛠️ Tech Stack
@@ -89,20 +102,17 @@ Machine-learning based system designed to support smarter agricultural decisions
 
 ## 🌱 Currently Exploring
 
-```text
-LLM Applications
-      ↓
-Retrieval-Augmented Generation
-      ↓
-AI Agents
-      ↓
-Production AI Systems
-```
+🧠 **LLM Applications**  
+Building practical applications around large language models.
 
-I'm currently focused on understanding how AI systems move beyond notebooks and become **reliable, usable products**.
+🔎 **RAG & Information Retrieval**  
+Exploring retrieval pipelines, embeddings, vector databases and grounded generation.
 
----
+🤖 **AI Agents**  
+Learning how AI systems can reason, use tools and complete multi-step tasks.
 
+⚙️ **AI Engineering**  
+Focusing on taking ML models from experiments to reliable, usable applications.
 ## 📌 What I'm Looking For
 
 I'm interested in opportunities involving:
