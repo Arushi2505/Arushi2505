@@ -9,13 +9,13 @@ I'm an AI/ML enthusiast interested in building practical systems at the intersec
 
 I'm particularly interested in:
 
-* 🤖 Machine Learning & Deep Learning
-* 🧠 LLMs & Generative AI
-* 🔎 RAG & Information Retrieval
-* 📊 Data Science & Analytics
-* 👁️ Computer Vision & NLP
-* 🌐 Full-Stack AI Applications
-* ☁️ Cloud & AI Deployment
+* Machine Learning & Deep Learning
+* LLMs & Generative AI
+* RAG & Information Retrieval
+* Data Science & Analytics
+* Computer Vision & NLP
+* Full-Stack AI Applications
+* Cloud & AI Deployment
 
 ---
 
@@ -77,16 +77,16 @@ Uses sensor data and machine learning to identify and analyze driving behaviour 
 
 ## Currently Exploring
 
-🧠 **LLM Applications**  
+**LLM Applications**  
 Building practical applications around large language models.
 
-🔎 **RAG & Information Retrieval**  
+**RAG & Information Retrieval**  
 Exploring retrieval pipelines, embeddings, vector databases and grounded generation.
 
-🤖 **AI Agents**  
+**AI Agents**  
 Learning how AI systems can reason, use tools and complete multi-step tasks.
 
-⚙️ **AI Engineering**  
+**AI Engineering**  
 Focusing on taking ML models from experiments to reliable, usable applications.
 
 ---
@@ -144,6 +144,7 @@ Focusing on taking ML models from experiments to reliable, usable applications.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
+
 ## 📌 What I'm Looking For
 
 I'm interested in opportunities involving:
