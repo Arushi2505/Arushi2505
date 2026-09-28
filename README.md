@@ -3,7 +3,7 @@
 </p>
 
 
-## 🧠 About Me
+## About Me
 
 I'm an AI/ML enthusiast interested in building practical systems at the intersection of **machine learning, software engineering and AI**.
 
@@ -19,7 +19,7 @@ I'm particularly interested in:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 💰 [FinSight](https://github.com/Arushi2505/FinSight)
 
@@ -71,36 +71,11 @@ Analyzes resumes against job descriptions using NLP and semantic similarity to i
 Uses sensor data and machine learning to identify and analyze driving behaviour patterns.
 
 **Built with:**  
-`Python` `SVM` `Neural Networks` `Data Analysis`
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-`Python` `SQL` `JavaScript` `Java`
-
-**AI / ML**
-
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision`
-
-`Scikit-learn` `PyTorch` `TensorFlow`
-
-**AI Engineering**
-
-`LLMs` `RAG` `LangChain` `LlamaIndex`
-
-**Development**
-
-`React` `FastAPI` `Node.js` `Git` `GitHub`
-
-**Cloud & DevOps**
-
-`Docker` `Kubernetes` `Azure`
+`Python` `SVM` `Neural Networks` `Data Analysis` 
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 🧠 **LLM Applications**  
 Building practical applications around large language models.
@@ -116,9 +91,9 @@ Focusing on taking ML models from experiments to reliable, usable applications.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -127,7 +102,7 @@ Focusing on taking ML models from experiments to reliable, usable applications.
   <img src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -136,7 +111,16 @@ Focusing on taking ML models from experiments to reliable, usable applications.
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-### 🧠 Generative AI
+### Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNN-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transfer%20Learning-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
+</p>
+
+### Generative AI
 
 <p>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
@@ -145,7 +129,7 @@ Focusing on taking ML models from experiments to reliable, usable applications.
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge"/>
 </p>
 
-### 🌐 Development
+### Development
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -154,10 +138,9 @@ Focusing on taking ML models from experiments to reliable, usable applications.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
@@ -167,7 +150,6 @@ I'm interested in opportunities involving:
 
 **AI/ML Engineering · Data Science · AI Engineering · LLMs · RAG**
 
----
 ---
 
 ## 🤝 Let's Connect
@@ -185,4 +167,3 @@ I'm interested in opportunities involving:
   <i>Building, learning, and turning ideas into intelligent systems. ✨</i>
 </p>
 
-⭐ Thanks for stopping by!
